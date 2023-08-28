@@ -1,3 +1,5 @@
-# Gasto de energia de um produto
+# Gasto de energético de um produto
 
-This repository contains a program written to calculate the price (in BRL) of the energy consumption of a product. 
+## Sobre
+
+Este projeto é um programa escrito em python para cálculo de energia de um produto em reais (BRL).
